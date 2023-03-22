@@ -1,0 +1,12 @@
+C:\temp\webapi\out\webapi1.exe
+C:\temp\webapi\out\appsettings.Development.json
+C:\temp\webapi\out\appsettings.json
+C:\temp\webapi\out\webapi1.dll
+C:\temp\webapi\out\webapi1.deps.json
+C:\temp\webapi\out\webapi1.runtimeconfig.json
+C:\temp\webapi\out\webapi1.pdb
+C:\temp\webapi\out\Microsoft.AspNetCore.OpenApi.dll
+C:\temp\webapi\out\Microsoft.OpenApi.dll
+C:\temp\webapi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\temp\webapi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\temp\webapi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
